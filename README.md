@@ -1,5 +1,5 @@
 # HCI-Project
-# HCI group project one:
+# HCI group project:
 We are building a system which will connect the athletes to the doctors.
 Here we want to implement Google O-Auth for data security. The athletes will be able enter the required injury which they are suffering currently, post which the system will show the list of expert doctors in that domain along with their availability and ratings. The athletes can schedule their appointment with the required doctor after looking at their rating and availability date. The athletes will be able to rate the doctor after their session depending on various parameters.
 The current state-of-art is the UHS online appointment scheduling system. Our initial impression of it is that it is not user-friendly. One cannot see doctor’s information, and has to go through a badly-designed survey to see the appointment slots. We want to build a website that is more user-friendly.
